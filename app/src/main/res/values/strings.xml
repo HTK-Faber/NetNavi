@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acc_label">NetNavi - Navi sulla Home</string>
+    <string name="acc_summary">Fa camminare il Navi sopra le icone della tua Home.</string>
+    <string name="acc_desc">NetNavi usa l\'accessibilità solo per sapere quando sei sulla schermata Home, dove si trovano le icone e quando cambi pagina, così il Navi può camminarci sopra. Legge soltanto posizione e nome delle icone della Home. Non legge i contenuti delle altre app, non tocca nulla al posto tuo e non invia dati.</string>
+</resources>
